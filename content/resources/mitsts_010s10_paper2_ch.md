@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d3756b9d-3b7e-b933-50a7-1cac595385ab
 resourcetype: Document
 title: MITSTS_010S10_paper2_ch.pdf
 uid: b13c79c3-412c-f569-62e8-f6d377b6bb4a
