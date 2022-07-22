@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides the writing assignments for the course, general
+  guidelines for paper assignments, and examples of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d3756b9d-3b7e-b933-50a7-1cac595385ab
 ---
 
 This page includes sample student papers from the Spring 2010 class as well as prior terms, presented with permission of the students.
 
-General guidelines for paper assignments ([PDF]({{< baseurl >}}/resources/mitsts_010s10_generalguide))
+General guidelines for paper assignments ({{% resource_link 8b27f6f0-314c-130e-a2e2-39c49c5a7bf2 "PDF" %}})
 
 Paper 1: Neuroscience in the News
 ---------------------------------
@@ -21,11 +26,11 @@ The following questions should guide your analysis: What claims of significance 
 
 ### Sample Student Papers
 
-"Racing to Conclusions: Neuroscience in the News" by Evan Schneider ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper1_es))
+"Racing to Conclusions: Neuroscience in the News" by Evan Schneider ({{% resource_link 54ea99f8-9f1f-0f67-b0f6-01e3c3774f3f "PDF" %}})
 
-"Neuroscience on the Brain" by Anikia Tucker ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper1_at))
+"Neuroscience on the Brain" by Anikia Tucker ({{% resource_link 9d0b10d6-ff79-8c75-4fb6-07387ccf186f "PDF" %}})
 
-"Neuroscience in the News" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper1_1))
+"Neuroscience in the News" by anonymous MIT student ({{% resource_link 16db7e2e-fe5a-9e11-c4b5-28d534d8e019 "PDF" %}})
 
 Paper 2: Implications of Social Neuroscience
 --------------------------------------------
@@ -34,24 +39,24 @@ Length: 6-8 pages
 
 Choose a topic of research in the new subfield of "Social Neuroscience." We recommend that you choose one of the topics addressed in class, such as morality, empathy, trust, distrust, love, reciprocity, etc. (choosing a different topic is fine, but in that case you will need to do a modest amount of outside research). In your paper, describe how emerging brain research reinforces, unsettles, or changes traditional popular understandings and attitudes about the chosen topic, and reflect on the following questions: What controversies does/could the research stimulate? What social interests or political agendas does/could it support? How might its research questions and directions be influenced by such interests and agendas?
 
-Guidelines for Paper 2 ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper2_guide))
+Guidelines for Paper 2 ({{% resource_link 09269621-bd88-8197-c124-702c3dce6396 "PDF" %}})
 
 ### Sample Student Papers
 
-"Neuroscience, Gender, and a Scientific Career" by Jacqueline Rogoff ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper2_jr))
+"Neuroscience, Gender, and a Scientific Career" by Jacqueline Rogoff ({{% resource_link 51c09180-c2aa-c447-c256-4f2e1ec9e364 "PDF" %}})
 
-"Wired Morality: Neuroscience's Unsettling of Traditional Moral Thought" by Jeremy Steeger ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper2_js))
+"Wired Morality: Neuroscience's Unsettling of Traditional Moral Thought" by Jeremy Steeger ({{% resource_link 358accbb-8ae4-8bc2-24c2-0c585a2d3fcc "PDF" %}})
 
-"Mirror Neurons: How Neuroscience Is Challenging the Way People Understand Each Other" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper2_ch))
+"Mirror Neurons: How Neuroscience Is Challenging the Way People Understand Each Other" by anonymous MIT student ({{% resource_link b13c79c3-412c-f569-62e8-f6d377b6bb4a "PDF" %}})
 
-"Playing Cupid: On the Brain and Love" by Jason A. Scott ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper2_js1))
+"Playing Cupid: On the Brain and Love" by Jason A. Scott ({{% resource_link 485f6146-c715-b630-4263-57242c08d310 "PDF" %}})
 
 Paper 3: Rewrite
 ----------------
 
 For the third assignment, rewrite one of the first two papers.
 
-Guidelines for Paper 3 ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper3_guide))
+Guidelines for Paper 3 ({{% resource_link 358de4c6-c45c-00b0-897e-b7a9eda13ad8 "PDF" %}})
 
 Paper 4: Neuroscientific Solution to a Social Problem
 -----------------------------------------------------
@@ -72,8 +77,8 @@ In your analysis, draw on insights and concepts from lectures and readings throu
 
 ### Sample Student Papers
 
-"The Role of Neuroscience on Addiction and Society" by Juliann Lajoie ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper4_jl))
+"The Role of Neuroscience on Addiction and Society" by Juliann Lajoie ({{% resource_link 9c487ef1-b66e-46c1-0f90-54e8da15833d "PDF" %}})
 
-"The Medicalization of Normality and the Ethical Debate behind Brain Enhancement" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper4_ch))
+"The Medicalization of Normality and the Ethical Debate behind Brain Enhancement" by anonymous MIT student ({{% resource_link 48de8013-62cf-8d53-741c-f4040dd24faf "PDF" %}})
 
-"Decision and Preference in Neuromarketing" by anonymous MIT student ([PDF]({{< baseurl >}}/resources/mitsts_010s10_paper4_js2))
+"Decision and Preference in Neuromarketing" by anonymous MIT student ({{% resource_link ce1cd6c1-66a6-16a9-b022-d1752c062fbc "PDF" %}})
