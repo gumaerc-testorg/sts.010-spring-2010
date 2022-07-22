@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Drawing of human brain, labeling functions of different regions.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-010s10-th.jpg
 uid: c8f919c5-91bf-8ca7-9f59-f44d203bd797
 ---
 New image Upload
-

@@ -5,6 +5,7 @@ file: /courses/sts-010-neuroscience-and-society-spring-2010/09269621bd888197c124
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_010S10_paper2_guide.pdf
 uid: 09269621-bd88-8197-c124-702c3dce6396
 ---
 This resource contains information about writing guidelines.
-

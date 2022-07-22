@@ -6,6 +6,7 @@ file: /courses/sts-010-neuroscience-and-society-spring-2010/8b27f6f0314c130ea2e2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_010S10_generalguide.pdf
 uid: 8b27f6f0-314c-130e-a2e2-39c49c5a7bf2
 ---
 This resource contains information about general guidelines for paper assignments.
-

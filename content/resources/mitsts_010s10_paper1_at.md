@@ -5,6 +5,7 @@ file: /courses/sts-010-neuroscience-and-society-spring-2010/9d0b10d6ff798c754fb6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITSTS_010S10_paper1_at.pdf
 uid: 9d0b10d6-ff79-8c75-4fb6-07387ccf186f
 ---
 This resource contains information about neuroscience in the news.
-

@@ -6,6 +6,7 @@ file: /courses/sts-010-neuroscience-and-society-spring-2010/485f6146c715b6304263
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_010S10_paper2_js1.pdf
 uid: 485f6146-c715-b630-4263-57242c08d310
 ---
 This resource contains information about playing cupid: on the brain and love .
-

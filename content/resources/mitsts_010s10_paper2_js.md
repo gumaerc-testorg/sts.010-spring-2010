@@ -6,6 +6,7 @@ file: /courses/sts-010-neuroscience-and-society-spring-2010/358accbb8ae48bc224c2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITSTS_010S10_paper2_js.pdf
 uid: 358accbb-8ae4-8bc2-24c2-0c585a2d3fcc
 ---
 This resource contains information about wired morality: neuroscience’s unsettling of traditional moral thought.
-
