@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about writing guidelines.
 file: /courses/sts-010-neuroscience-and-society-spring-2010/09269621bd888197c124702c3dce6396_MITSTS_010S10_paper2_guide.pdf
+file_size: 109798
 file_type: application/pdf
 learning_resource_types:
 - Assignments
