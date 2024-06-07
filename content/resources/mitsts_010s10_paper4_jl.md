@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the role of neuroscience on
   addiction and society.
 file: /courses/sts-010-neuroscience-and-society-spring-2010/9c487ef1b66e46c10f9054e8da15833d_MITSTS_010S10_paper4_jl.pdf
+file_size: 229177
 file_type: application/pdf
 learning_resource_types:
 - Assignments
