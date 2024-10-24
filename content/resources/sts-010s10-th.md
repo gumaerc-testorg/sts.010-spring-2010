@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-010-neuroscience-and-society-spring-2010/c8f919c591bf8ca79f59f44d203bd797_sts-010s10-th.jpg
+file: /ol-ocw-studio-app/courses/sts-010-neuroscience-and-society-spring-2010/c8f919c591bf8ca79f59f44d203bd797_sts-010s10-th.jpg
 file_size: 10364
 file_type: image/jpeg
 image_metadata:
