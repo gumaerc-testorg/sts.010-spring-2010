@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about decision and preference in neuromarketing.
-file: /courses/sts-010-neuroscience-and-society-spring-2010/ce1cd6c166a616a9b022d1752c062fbc_MITSTS_010S10_paper4_js2.pdf
+file: /ol-ocw-studio-app/courses/sts-010-neuroscience-and-society-spring-2010/ce1cd6c166a616a9b022d1752c062fbc_MITSTS_010S10_paper4_js2.pdf
 file_size: 132574
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information about racing to conclusions: neuroscience
   in the news.'
-file: /courses/sts-010-neuroscience-and-society-spring-2010/54ea99f89f1f0f67b0f601e3c3774f3f_MITSTS_010S10_paper1_es.pdf
+file: /ol-ocw-studio-app/courses/sts-010-neuroscience-and-society-spring-2010/54ea99f89f1f0f67b0f601e3c3774f3f_MITSTS_010S10_paper1_es.pdf
 file_size: 153792
 file_type: application/pdf
 learning_resource_types:
