@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about neuroscience, gender, and a
   scientific career.
-file: /ol-ocw-studio-app/courses/sts-010-neuroscience-and-society-spring-2010/51c09180c2aac447c2564f2e1ec9e364_MITSTS_010S10_paper2_jr.pdf
+file: /courses/sts-010-neuroscience-and-society-spring-2010/51c09180c2aac447c2564f2e1ec9e364_MITSTS_010S10_paper2_jr.pdf
 file_size: 136452
 file_type: application/pdf
 learning_resource_types:
