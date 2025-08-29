@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about neuroscience in the news.
-file: /courses/sts-010-neuroscience-and-society-spring-2010/9d0b10d6ff798c754fb607387ccf186f_MITSTS_010S10_paper1_at.pdf
+file: /ol-ocw-studio-app/courses/sts-010-neuroscience-and-society-spring-2010/9d0b10d6ff798c754fb607387ccf186f_MITSTS_010S10_paper1_at.pdf
 file_size: 68778
 file_type: application/pdf
 learning_resource_types:
